@@ -1,0 +1,14 @@
+digraph DFA {
+ rankdir=LR;
+ size = "10, 4";
+ d2tstyleonly = true;
+node [shape = none]; " ";
+node [shape = doublecircle]; "dos";
+node [shape = circle];
+" " -> "cero"
+"cero" -> "cero"  [ label="0"];
+"cero" -> "uno"  [ label="~"];
+"uno" -> "uno"  [ label="1"];
+"uno" -> "dos"  [ label="~"];
+"dos" -> "dos"  [ label="2"];
+uno

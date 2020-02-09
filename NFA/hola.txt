@@ -1,0 +1,17 @@
+2
+~
+0
+1
+3
+cero
+uno
+dos
+cero
+1
+dos
+5
+cero 0 cero
+cero ~ uno
+uno 1 uno
+uno ~ dos
+dos 2 dos
