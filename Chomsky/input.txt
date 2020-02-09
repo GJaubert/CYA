@@ -1,0 +1,25 @@
+//hola que tal
+//me llamo juan
+3
+a
+b
+c
+3
+S
+A
+B
+S
+13
+S -> aAbA
+S -> abA
+S -> aAb
+S -> ab
+A -> aB
+A -> bB
+A -> a
+A -> b
+B -> aB
+B -> bB
+B -> a
+B -> b 
+B -> c
